@@ -7,7 +7,6 @@ import mock05 from '../assets/images/mock05.png';
 import mock06 from '../assets/images/mock06.png';
 import mock07 from '../assets/images/mock07.png';
 import mock08 from '../assets/images/mock08.png';
-import mock09 from '../assets/images/mock09.png';
 import mock10 from '../assets/images/mock10.png';
 import '../assets/styles/Project.scss';
 
@@ -22,14 +21,14 @@ function Project() {
                 <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>High Speed Chase</h2></a>
-                <p>Designed, developed, and launched a 3D multiplayer racing game with C# and Unity. This is available on Itch.io for gamers worldwide to enjoy.</p>
+                <a href="https://apps.apple.com/us/app/coinzoom/id1575983875" target="_blank" rel="noreferrer"><img src="https://images.unsplash.com/photo-1629449710716-a81a59aa0af2?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=60&w=1600" className="zoom" alt="CoinZoom crypto app on phone" width="100%"/></a>
+                <a href="https://apps.apple.com/us/app/coinzoom/id1575983875" target="_blank" rel="noreferrer"><h2>CoinZoom: Buy, Spend, Send BTC</h2></a>
+                <p>Crypto finance app for buying, sending, and spending digital assets, with debit card features and global remittances.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>Astro Raiders</h2></a>
-                <p>Developed and released a 2D shooting game with C# and Unity. This project is hosted on the Itch.io public marketplace.</p>
+                <a href="https://thebuildershubb.com/" target="_blank" rel="noreferrer"><img src="https://images.unsplash.com/photo-1707904645731-9879090f77c5?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000" className="zoom" alt="Construction site with crane" width="100%"/></a>
+                <a href="https://thebuildershubb.com/" target="_blank" rel="noreferrer"><h2>The Builders Hubb</h2></a>
+                <p>Construction marketplace connecting builders, vendors, and clients with project listings, services, and procurement support.</p>
             </div>
             <div className="project">
                 <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>

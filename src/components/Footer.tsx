@@ -1,16 +1,16 @@
 import React from "react";
-import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import MusicNoteIcon from '@mui/icons-material/MusicNote';
 import '../assets/styles/Footer.scss'
 
 function Footer() {
   return (
     <footer>
       <div>
-        <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-        <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+        <a href="http://www.linkedin.com/in/chika-blessing-mpamugo-94349a191" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+        <a href="https://www.tiktok.com/@chikauiux?_r=1&_t=ZS-93mpuflpkdo" target="_blank" rel="noreferrer"><MusicNoteIcon/></a>
       </div>
-      <p>A portfolio designed & built by <a href="https://github.com/yujisatojr/react-portfolio-template" target="_blank" rel="noreferrer">Yuji Sato</a> with 💜</p>
+      <p>Digify portfolio</p>
     </footer>
   );
 }
