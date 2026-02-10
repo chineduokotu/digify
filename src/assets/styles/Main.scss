@@ -106,6 +106,12 @@
     }
 
     @media (max-width:768px) {
+        .about-section {
+            background-attachment: scroll;
+            background-position: center;
+            background-size: cover;
+        }
+
         .about-section h1 {
             font-size: 4em !important;
             text-align: left;
